@@ -24,9 +24,13 @@ Information on accepted items and working hours.Filters for specific types of e-
 ## Technology Stack
 
  For documenting RESTful APIs.
+ 
  Backend and database hosted on AWS, GCP, or Azure.
+ 
  AWS Lambda, S3, and RDS.
 ## Dependencies
 Mapping Services – 5 Days
+
 Data Collection – 10 Days
+
 Estimated Budget – Rs.15,000
