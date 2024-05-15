@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:13/05/2024
-## Register Number:
-## Name:
+## Register Number:212222110033
+## Name:Pragaharshitha NC
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
